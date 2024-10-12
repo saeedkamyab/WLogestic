@@ -1,0 +1,6 @@
+@WLogestic.Api_HostAddress = http://localhost:5216
+
+GET {{WLogestic.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
